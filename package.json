@@ -1,0 +1,16 @@
+{
+  "name": "web-iv-challenge",
+  "version": "1.0.0",
+  "description": "\"web dv iv\"",
+  "main": "index.js",
+  "repository": "https://github.com/antonynyagah/webdb-iv-challenge.git",
+  "author": "Antony Nyagah",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "knex": "^0.17.2",
+    "sqlite3": "^4.0.8"
+  }
+}
